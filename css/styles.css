@@ -10,3 +10,7 @@
 .contact:hover {
   text-decoration: underline;
 }
+
+body {
+  padding-left: 30px;
+}
